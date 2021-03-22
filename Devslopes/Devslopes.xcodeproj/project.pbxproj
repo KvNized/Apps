@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A54B23632608A838004692A5 /* Border Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54B23622608A838004692A5 /* Border Label.swift */; };
 		A584824026063F5300C7C880 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A584823F26063F5300C7C880 /* AppDelegate.swift */; };
 		A584824226063F5300C7C880 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A584824126063F5300C7C880 /* SceneDelegate.swift */; };
 		A584824426063F5300C7C880 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A584824326063F5300C7C880 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A54B23622608A838004692A5 /* Border Label.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Border Label.swift"; sourceTree = "<group>"; };
 		A584823C26063F5300C7C880 /* Devslopes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Devslopes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A584823F26063F5300C7C880 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A584824126063F5300C7C880 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				A584824D26063F5400C7C880 /* LaunchScreen.storyboard */,
 				A584825026063F5400C7C880 /* Info.plist */,
 				A584824826063F5300C7C880 /* Devslopes.xcdatamodeld */,
+				A54B23622608A838004692A5 /* Border Label.swift */,
 			);
 			path = Devslopes;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A584824426063F5300C7C880 /* ViewController.swift in Sources */,
+				A54B23632608A838004692A5 /* Border Label.swift in Sources */,
 				A584824026063F5300C7C880 /* AppDelegate.swift in Sources */,
 				A584824226063F5300C7C880 /* SceneDelegate.swift in Sources */,
 				A584824A26063F5300C7C880 /* Devslopes.xcdatamodeld in Sources */,
